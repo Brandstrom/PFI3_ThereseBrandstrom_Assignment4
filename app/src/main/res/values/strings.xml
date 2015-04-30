@@ -14,37 +14,37 @@
 
     <string name="earth">Earth</string>
     <string name="earthInfo">Earth, also called the world[</string>
-    <string name="earthRadius">and, less frequently, Gaia</string>
-    <string name="earthT">The earliest life on Earth arose at least 3.5 billion years ago.</string>
+    <string name="earthRadius">5cm</string>
+    <string name="earthT">varierande.</string>
 
     <string name="venus">Venus</string>
     <string name="venusinfo">Venus is the second planet from the Sun</string>
-    <string name="venusRadius"> After the Moon, it is the brightest natural object in the night sky, reaching an apparent magnitude of −4.6, bright enough to cast shadows.</string>
-    <string name="venusT"> Because Venus is an inferior planet from Earth</string>
+    <string name="venusRadius">6 cm</string>
+    <string name="venusT"> cold</string>
 
     <string name="merkurius">Merkurius</string>
     <string name="merkuriusinfo">is a lunar impact crater that is located in the northeastern part of the Moon.</string>
-    <string name="merkuriusRadius"> It lies to the northeast of the smaller crater Carrington</string>
-    <string name="merkuriusT">and west-northwest of Zeno. Just to the south is the small lunar mare named Lacus Spei, and to the west is the larger Lacus Temporis.</string>
+    <string name="merkuriusRadius"> 5 cm</string>
+    <string name="merkuriusT">Just to the south is the small lunar mare named Lacus Spei, and to the west is the larger Lacus Temporis.</string>
 
     <string name="saturnus">Saturnus</string>
     <string name="saturnusinfo">Saturnus (symbol: Saturn symbol.svg) är den sjätte planeten från solen och den näst största i solsystemet.</string>
-    <string name="saturnusRadius">Den är en gasjätte, känd sedan förhistorisk tid.</string>
+    <string name="saturnusRadius">4 cm</string>
     <string name="saturnusT">his article is about the planet. </string>
 
-    <string name="neptunus">The outer atmosphere is generally bland and lacking in contrast, although long-lived features can appear. </string>
+    <string name="neptunus">Neptunus</string>
     <string name="neptunusinfo">Sixty-two[18] moons are known to orbit Saturn</string>
-    <string name="neptunusRadius">Sixty-two[18] moons are known to orbit Saturn</string>
-    <string name="neptunusT">Sixty-two[18] moons are known to orbit Saturn</string>
+    <string name="neptunusRadius">3cm</string>
+    <string name="neptunusT">very cold</string>
 
-    <string name="jupiter">Mars (planet), en planet i solsystemet</string>
-    <string name="jupiterinfo">Mars (månad), en månad</string>
-    <string name="jupiterRadius">Mars  är den fjärde planeten från solen och solsystemets näst minsta planet.</string>
-    <string name="jupiterT">ntil the first successful Mars flyby in 1965 by Mariner 4</string>
+    <string name="jupiter">Jupiter</string>
+    <string name="jupiterinfo">Jupiter är en stor planet</string>
+    <string name="jupiterRadius">Mars har 4 cm</string>
+    <string name="jupiterT">Jupiter are also very cold </string>
 
 
-    <string name="uranus">Uranus is the seventh planet from the Sun. 4</string>
+    <string name="uranus">Uranus</string>
     <string name="uranusinfo">Uranus is the seventh planet from the Sun.</string>
-    <string name="uranusRadius">Uranus is the seventh planet from the Sun.</string>
+    <string name="uranusRadius">6cm</string>
     <string name="uranusT">Uranus is the seventh planet from the Sun.</string>
 </resources>
